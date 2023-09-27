@@ -8,5 +8,5 @@
 
   
 ## STM32 Drivers
-* MCAL->  stm32 header, GPIO
-* HAL->   KEYBAD, LCD DRIVERS
+* MCAL->  stm32 header, GPIO DRIVER
+* HAL->   KEYPAD, LCD DRIVERS
