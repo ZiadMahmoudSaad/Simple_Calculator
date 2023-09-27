@@ -1,7 +1,12 @@
-# Simple_Calculator
-##Simple calculator on STM32F103C6 
-using my STM32 Drivers
+# *Simple_Calculator*
+## Simple calculator doing basic arithmetic operations like addition, subtraction, multiplication, or division.
 
-##STM32 Drivers
+## Project Componnent
+* STM32F103C6
+* Keypad 4x3
+* LCD 16x2
+
+  
+## STM32 Drivers
 MCAL->  stm32 header, GPIO
 HAL->   KEYBAD, LCD DRIVERS
