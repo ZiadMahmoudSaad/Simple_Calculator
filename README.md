@@ -1,5 +1,5 @@
 # *Simple_Calculator*
-## Simple calculator doing basic arithmetic operations like addition, subtraction, multiplication, or division.
+Simple calculator doing basic arithmetic operations like addition, subtraction, multiplication, or division.
 
 ## Project Componnent
 * STM32F103C6
